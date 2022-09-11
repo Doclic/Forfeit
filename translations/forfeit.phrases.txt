@@ -1,0 +1,76 @@
+"Phrases"
+{
+	"Forfeit"
+	{
+		"en"			"Forfeit:"
+	}
+	
+	"Forfeit Not Allowed"
+	{
+		"en"			"Forfeiting is not allowed yet."
+	}
+	
+	"Already Voted"
+	{
+ 		"#format"		"{1:d},{2:d}"
+	 	"en"			"You have already voted to forfeit. ({1} votes, {2} required)"
+	}
+	
+	"Minimal Players Not Met"
+	{
+		"en"			"The minimal number of players required has not been met."
+	}
+	
+	"Forfeit Requested"
+	{
+		"#format"		"{1:s},{2:s},{3:d},{4:d}"
+		"en"			"{2} ({1} team) wants to forfeit. ({3} votes, {4} required, type !f to forfeit)"
+	}
+	
+	"Forfeit Requested Enemy"
+	{
+		"#format"		"{1:s},{2:s},{3:d},{4:d}"
+		"en"			"{2} ({1} team) wants to forfeit. ({3} votes, {4} required)"
+	}
+	
+	"Forfeit Vote Ready"
+	{
+		"en"			"Forfeiting!"
+
+	}
+	
+	"Don't Change"
+	{
+		"en"			"Keep Current Map"
+	}
+	
+	
+	"Selected Map"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} has selected {2}"
+	}
+	
+	"No Votes"
+	{
+		"en"			"No votes received for Forfeit, keeping current map."
+	}
+	
+	"Team Forfeit"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} team forfeited."
+	}
+	
+	"Team Forfeit Center"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} team forfeited. Map will change soon."
+	}
+
+	"Cannot Force Win"
+	{
+		"en"			"Couldn't make the round end. (Out of edicts?)"
+	}
+	
+}
